@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Relectures</title>
+    <link>https://relectures.ca/</link>
+    <description>Recent content on Relectures</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 May 2021 22:49:04 -0400</lastBuildDate><atom:link href="https://relectures.ca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Premier Texte</title>
+      <link>https://relectures.ca/posts/premier-texte/</link>
+      <pubDate>Sat, 08 May 2021 22:49:04 -0400</pubDate>
+      
+      <guid>https://relectures.ca/posts/premier-texte/</guid>
+      <description>Est-ce que ce texte s&amp;rsquo;affiche?
+Reste à voir comment formater.</description>
+    </item>
+    
+  </channel>
+</rss>

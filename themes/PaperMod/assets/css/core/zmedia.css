@@ -1,0 +1,113 @@
+@media screen and (max-width: 800px) {
+    /* theme-vars */
+    :root {
+        --gap: 10px;
+    }
+
+    /* profile-mode */
+    .profile img {
+        transform: scale(0.85);
+    }
+
+    /* post-entry */
+    .first-entry {
+        min-height: 150px;
+    }
+
+    /* archive */
+    .archive-month {
+        flex-direction: column;
+    }
+
+    .archive-year {
+        margin-top: 20px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    /* reset */
+    ::-webkit-scrollbar {
+        width: 19px;
+        height: 11px;
+    }
+}
+ /* Taille du logo  */
+@media screen and (max-width: 360px) {
+    /* .logo { 
+        transform: scale(0.75);
+        }*/
+        .social-icons {
+            display: none;
+            margin-left: 10px;
+        }
+        .social-icons-menu {
+        display: flex;
+        /* margin-left: 10px; */
+        align-items: left;
+    }
+    .social-icons-menu a:not(:last-of-type) {
+        margin-inline-end: 20px;
+    }
+    .logo-switches {
+        transform: scale(0.85);
+        margin: 4px;
+    }
+    #menu{
+        display: none;
+    }
+
+  }
+
+/* Visibilité du menu burger */
+@media screen and (min-width: 361px){
+    #menuToggle{
+        display: none;
+    }
+    .social-icons-menu {
+        display: none;
+    }
+}
+
+  /* @media screen and (min-width: 1px) and (max-width: 360px) { 
+    .logo a img {
+        transform: scale(0.85)
+    }
+  }*/
+  
+  /* @media screen and (min-width: 487px) and (max-width: 1079px) { 
+    .site-header .site-branding {
+      background-image: url("../images/logo_med.png") !important;
+    }
+  }
+  
+  @media screen and (min-width: 1080px) {
+    .site-header .site-branding {
+      background-image: url("../images/logo_big.png") !important;
+    }
+  }*/
+
+/* footer */
+@media screen and (max-width: 900px) {
+    .list .top-link {
+        transform: translateY(-5rem);
+    }
+}
+
+@media (prefers-reduced-motion) {
+    /* terms; profile-mode; post-single; post-entry; post-entry; search; search */
+    .terms-tags a:active,
+    .button:active,
+    .share-buttons svg:active,
+    .post-entry:active,
+    .top-link,
+    #searchResults .focus,
+    #searchResults li:active {
+        transform: none;
+    }
+}
+
+@media screen and (max-width: 768px){
+    body{
+        overflow-x: hidden;
+    }
+    }

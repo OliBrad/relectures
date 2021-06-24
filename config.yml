@@ -1,0 +1,141 @@
+baseURL: https://relectures.ca/
+languageCode: fr
+title: Relectures
+theme: "PaperMod"
+description: Réinterprétations littéraires d’événements, chansons, citations et autres références québécoises à travers de courts récits fictionnels
+keywords: [blog, fiction, québec, olivier bradette]
+DefaultContentLanguage: fr
+# DateFormat: 2 janvier 2006
+
+googleAnalytics: 
+
+ignoreErrors:
+  - error-remote-getjson
+
+params:
+  #defailtTheme: light
+  #defaultTheme: dark
+  defaultTheme: auto #s'adapte au theme du navigateur.
+
+  disableThemeToggle: false
+  ShowShareButtons: true
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  author: ["Olivier Bradette"]
+  copyright: Olivier Bradette
+  comments: true
+  disqusShortname: Relectures
+  rss: true
+
+  mainSections:
+    - recits
+    - nouvelles
+  
+  homeInfoParams:
+    Title: Relectures
+    Content: Réinterprétations littéraires d’événements, chansons, citations et autres références québécoises à travers de courts récits fictionnels
+
+  #profileMode:
+    #enabled: false
+    #title: "Relectures" # optional default will be site title
+    #subtitle: "Réinterprétations littéraires d’événements, chansons, citations et autres références québécoises à travers de courts récits fictionnels"
+    #imageUrl: "<image link>" # optional
+    #imageTitle: "Relectures" # optional
+    #imageWidth: 120 # custom size
+    #imageHeight: 120 # custom size
+    #buttons:
+      #name: Récits
+      #url: "/Récits"
+      #name: Github
+      #url: "https://github.com/"  
+
+  label:
+    text:  
+    icon: /logo.png
+    iconHeight: 30
+  socialIcons: 
+    - name: facebook
+      url: "https://facebook.com/oliverbradmusic"
+    - name: twitter
+      url: "https://twitter.com/olibradette"
+    - name: instagram
+      url: "https://instagram.com/olivier.bradette" 
+    - name: rss
+      url: "http://localhost:1313/index.xml"      #2021-06-03 - CHANGER L'URL QUAND ON LANCERA LE SITE AVEC NOM DE DOMAINE ET CONNEXION SÉCURISÉE
+  
+  instagram:
+    appId: "750502122304267"
+    clientToken: "a6f90b1a7b68b93da99edbcaa9de8962"
+    #Facebook for developpers - Info s'y trouve
+
+  
+
+  #spotify:
+  #  type: artist;
+   # id: 2Edbzo2ZMU0ArxThqgc1Mw;
+
+ # assets:
+   # disableHLJS: true # to disable highlight.js
+   # disableFingerprinting: true
+   # favicon: "<link / abs url>"
+   # favicon16x16: "static\favicon-16x16.png"
+   # favicon32x32: "static\favicon-32x32.png"
+   # apple_touch_icon: "<link / abs url>"
+   # safari_pinned_tab: "<link / abs url>"    
+
+menu:
+  main:
+    - identifier: recits
+      name: Récits
+      url: /recits/
+      weight: 10
+    - identifier: nouvelles
+      name: Nouvelles
+      url: /nouvelles/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives
+      weight: 30
+    #- identifier: categories
+    #  name: Catégories
+    #  url: /categories
+    #  weight: 30
+    - identifier: apropos
+      name: À propos
+      url: /apropos
+      weight: 40 
+    - identifier: recherche
+      name: Recherche
+      url: /recherche
+      weight: 50 
+  socialIcons: 
+    - name: instagram
+      url: "https://instagram.com/olivier.bradette"
+    - name: twitter
+      url: "https://twitter.com/olibradette"
+    - name: facebook
+      url: "https://facebook.com/oliverbradmusic"
+        
+enableEmoji: true
+
+taxonomies:
+  tag: tags
+  category: categories
+
+#RECHERCHE
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
+fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
