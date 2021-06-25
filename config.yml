@@ -12,6 +12,8 @@ googleAnalytics:
 ignoreErrors:
   - error-remote-getjson
 
+publishDir: public
+
 params:
   #defailtTheme: light
   #defaultTheme: dark
