@@ -23,8 +23,8 @@ ShowShareButtons: true
 
 <p>L'inspiration de ce premier récit m'est venue en ayant en tête la fameuse chanson <a href= "https://www.youtube.com/watch?v=_whvVXX0hCk">de Bleu Jeans Bleu.</a></p>
 
-<p>À quoi pourrait bien ressembler le quotidien d’un gars qui demande aux passants si on est ben juste en coton ouaté?</div>
-</p>
+<p>À quoi pourrait bien ressembler le quotidien d’un gars qui demande aux passants si on est ben juste en coton ouaté?</p></div>
+
 {{< /code-html >}}
 
 Cet hiver-là avait été le plus long de mes hivers. Pas beaucoup d’ouvrage à la job. Des tempêtes qui semblaient ne jamais avoir fini de vider leurs flocons sur Montréal. Des froids humides qui transpercent les couches de laine. Mes pauvres mains craquelées par le vent du Nord. Je dois vraiment arrêter de texter tout le monde à moins vingt-cinq…
