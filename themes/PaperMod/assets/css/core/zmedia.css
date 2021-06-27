@@ -48,10 +48,10 @@
     .social-icons-menu a:not(:last-of-type) {
         margin-inline-end: 20px;
     }
-    .logo-switches {
+    /* .logo-switches { 
         transform: scale(0.85);
         margin: 4px;
-    }
+    }*/
     #menu{
         display: none;
     }
