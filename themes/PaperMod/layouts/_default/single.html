@@ -36,10 +36,9 @@
       <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
       {{- end }}
     </ul>
+<!-- Ko-Fi bouton -->
+    <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Offrez-moi un café!', '#d1c300', 'H2H254F8N');kofiwidget2.draw();</script> 
     {{- end }}
-
-    <a href="https://www.buymeacoffee.com/relectures"><img src="https://img.buymeacoffee.com/button-api/?text=Offrez-moi un p'tit café!&emoji=☕&slug=relectures&button_colour=e1c214&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00"></a>
-
     {{- if (.Param "ShowPostNavLinks") }}
     {{- partial "post_nav_links.html" . }}
     {{- end }}

@@ -27,9 +27,17 @@ Je présente chaque récit par une brève mise en contexte qui contient une réf
 Merci pour votre visite :smile:
 
 ## Un p'tit café pour m'encourager! :coffee:
-Si vous aimez le contenu de Relectures et que vous cherchez un moyen sympathique de m'encourager, vous pouvez toujours me payer un café (ou une bière)! C'est une petite tape dans le dos qui fait une grosse différence.
+Si vous aimez le contenu de Relectures et que vous cherchez un moyen sympathique de m'encourager, vous pouvez toujours m'offrir un café (ou une bière)! C'est une petite tape dans le dos qui fait une grosse différence.
 
-Sinon, n'hésitez pas à partager vos récits préférés à votre réseau. Ça aide énormément à faire connaître Relectures, et ça fait vraiment plaisir!
+Sinon, n'hésitez pas à partager vos récits préférés à votre réseau. Ça aide énormément à faire connaître Relectures, pis ça fait vraiment plaisir!
+
+{{< code-html >}}
+<p align="center"><iframe src='https://ko-fi.com/relectures/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:70%;padding:4px;background:#f9f9f9;' display='block'
+    border-style='none' height='620' title='relectures'></iframe></p>
+{{< /code-html >}}
+
+## Questions ou commentaires? :envelope:
+Écrivez-moi à [relectures.ca@gmail.com](mailto:relectures.ca@gmail.com), je serai ben content de vous lire!
 
 ## Autres passe-temps
 Dans mes temps libres, je m'amuse avec une couple d'affaires su'l side.

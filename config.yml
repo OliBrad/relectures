@@ -36,12 +36,12 @@ params:
   
   homeInfoParams:
     Title: Relectures
-    Content: Réinterprétations littéraires d’événements, chansons, citations et autres références québécoises à travers de courts récits fictionnels
+    Content: Réinterprétations de références québécoises à travers de courts récits de fiction
 
   #profileMode:
     #enabled: false
     #title: "Relectures" # optional default will be site title
-    #subtitle: "Réinterprétations littéraires d’événements, chansons, citations et autres références québécoises à travers de courts récits fictionnels"
+    #subtitle: "Réinterprétations de références québécoises à travers de courts récits de fiction"
     #imageUrl: "<image link>" # optional
     #imageTitle: "Relectures" # optional
     #imageWidth: 120 # custom size
@@ -54,7 +54,7 @@ params:
 
   label:
     text:  
-    icon: /logo.png
+    icon: /logo2.png
     iconHeight: 30
   socialIcons: 
     - name: facebook
