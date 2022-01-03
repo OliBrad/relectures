@@ -54,5 +54,3 @@ Production de musique électronique instrumentale pour le plaisir. J'ai publié 
 {{< spotify album 35zveChlGuAVChbOkRJOA9 2000 200 >}}
 {{< bandcamp 2146976601 >}}
 
-### Photographie
-{{< instagram CDW9eBVHp2P hidecaption >}}
