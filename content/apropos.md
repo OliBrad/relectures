@@ -1,6 +1,6 @@
 ---
 title: "À propos"
-date: 2021-05-16T21:37:31-04:00
+{{/*date: 2021-05-16T21:37:31-04:00*/}}
 draft: false
 cover:
   image: /olivier4.jpg
@@ -24,7 +24,7 @@ Je présente chaque récit par une brève mise en contexte qui contient une réf
 >
 > Comment la fameuse dinde noire su'l _couch_ pourrait se manifester dans un récit fantastique moyen-âgeux?
 
-Suivez Relectures sur Facebook, Twitter et Instagram pour ne rien manquer!
+Suivez Relectures sur [Facebook](https://www.facebook.com/relectures.ca), [Twitter](https://twitter.com/relectures_) et [Instagram](https://www.instagram.com/relectures/) pour ne rien manquer!
 
 Merci pour votre visite :smile:
 
