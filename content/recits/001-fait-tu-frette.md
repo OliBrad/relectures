@@ -21,7 +21,7 @@ ShowShareButtons: true
 
 <p>Première visite? Consultez la page <a href="/apropos">À propos</a> pour connaître le projet!</p>
 
-<p>L'inspiration de ce premier récit m'est venue en ayant en tête la fameuse chanson <a href= "https://www.youtube.com/watch?v=_whvVXX0hCk">de Bleu Jeans Bleu.</a></p>
+<p>L'inspiration de ce premier récit m'est venue en ayant en tête la fameuse chanson de <a href= "https://www.youtube.com/watch?v=_whvVXX0hCk">Bleu Jeans Bleu.</a></p>
 
 <p>À quoi pourrait bien ressembler le quotidien d’un gars qui demande aux passants si on est ben juste en coton ouaté?</p></div>
 
