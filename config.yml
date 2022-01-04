@@ -96,18 +96,18 @@ menu:
       name: Nouvelles
       url: /nouvelles/
       weight: 20
+    - identifier: apropos
+      name: À propos
+      url: /apropos
+      weight: 30 
     - identifier: archives
       name: Archives
       url: /archives
-      weight: 30
+      weight: 40
     #- identifier: categories
     #  name: Catégories
     #  url: /categories
     #  weight: 30
-    - identifier: apropos
-      name: À propos
-      url: /apropos
-      weight: 40 
     - identifier: recherche
       name: Recherche
       url: /recherche
