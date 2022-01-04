@@ -1,6 +1,5 @@
 ---
 title: "À propos"
-{{/*date: 2021-05-16T21:37:31-04:00*/}}
 draft: false
 cover:
   image: /olivier4.jpg
