@@ -58,13 +58,13 @@ params:
     iconHeight: 30
   socialIcons: 
     - name: facebook
-      url: "https://facebook.com/oliverbradmusic"
+      url: "https://www.facebook.com/relectures.ca"
     - name: twitter
-      url: "https://twitter.com/olibradette"
+      url: "https://www.twitter.com/relectures_"
     - name: instagram
-      url: "https://instagram.com/olivier.bradette" 
+      url: "https://www.instagram.com/relectures" 
     - name: rss
-      url: "http://localhost:1313/index.xml"      #2021-06-03 - CHANGER L'URL QUAND ON LANCERA LE SITE AVEC NOM DE DOMAINE ET CONNEXION SÉCURISÉE
+      url: "https://www.relectures.ca/index.xml"
   
   instagram:
     appId: "750502122304267"
