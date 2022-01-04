@@ -14,7 +14,7 @@ Salut!
 
 Je m'appelle Olivier, et j'ai lancé ce projet pour le fun au début 2021.
 
-Avec Relectures, je m'inspire de références québécoises pour composer de courts récits de fiction. Chaque texte reprend un ou plusieurs détails de histoires, vidéos virales, chansons ou moments de l'actualité pour les transposer dans un univers fictif complètement différent.
+Avec Relectures, je m'inspire de références québécoises pour composer de courts récits de fiction. Chaque texte reprend un ou plusieurs détails de ces histoires, vidéos virales, chansons ou moments de l'actualité pour les transposer dans un univers fictif complètement différent.
 
 Je présente chaque récit par une brève mise en contexte qui contient une référence vers la source de mon inspiration. Comme ça, tout le monde comprend de quoi on parle avant d'entamer sa lecture!
 
