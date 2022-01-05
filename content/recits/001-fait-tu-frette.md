@@ -1,5 +1,5 @@
 ---
-title: "001 - Fait tu frette?"
+title: "001 - Le plus long hiver"
 date: 2022-01-03T23:34:04-04:00
 draft: false
 
@@ -17,13 +17,11 @@ ShowShareButtons: true
 
 ---
 
-{{< code-html >}} <div class="contexte"><p>Bienvenue au 1<sup>er</sup> texte de Relectures! 🥳 </p>
+{{< code-html >}} <div class="contexte"><p>Bienvenue au tout premier texte de Relectures! 🥳 </p>
 
 <p>Première visite? Consultez la page <a href="/apropos">À propos</a> pour connaître le projet!</p>
 
-<p>L'inspiration de ce premier récit m'est venue en ayant en tête la fameuse chanson de <a href= "https://www.youtube.com/watch?v=_whvVXX0hCk">Bleu Jeans Bleu.</a></p>
-
-<p>À quoi pourrait bien ressembler le quotidien d’un gars qui demande aux passants si on est ben juste en coton ouaté?</p></div>
+<p>La source d'inspiration de ce texte est révélée à la fin du récit. Bonne lecture!</p></div>
 
 {{< /code-html >}}
 
@@ -68,3 +66,15 @@ Sans hésitation, je lui ai lancé:
 Le gars s’est arrêté après un ou deux pas hésitants. Il semblait chercher un instant avant de lever la tête dans ma direction, l’air curieux. J’ai enchaîné avec entrain:
 
 \- Fait tu frette? ...
+
+{{< code-html >}} 
+<div class="contexte"><p>L'inspiration de ce premier récit m'est venue en ayant en tête la fameuse chanson de <a href= "https://www.youtube.com/watch?v=_whvVXX0hCk">Bleu Jeans Bleu</a>!</p>
+
+<p>Je me demandais: "À quoi pourrait bien ressembler le quotidien d’un gars qui demande aux passants si on est ben juste en coton ouaté?"</p>
+
+<p>Aviez-vous deviné? :wink:</p>
+
+<p>À bientôt!</p>
+</div>
+
+{{< /code-html >}}
