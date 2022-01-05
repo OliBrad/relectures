@@ -10,7 +10,7 @@ Première visite? Consultez la page [À propos]({{< ref "/apropos" >}} "À propo
 
 Je suis super énervé de lancer ce petit site-là. Ça mijote dans ma tête depuis pas loin d'un an, donc j'avais pas mal hâte d'enfin pouvoir en parler!
 
-J'espère que vous aurez du fun à lire les textes qui seront publiés ici.
+J'espère que vous aurez du _fun_ à lire les textes qui seront publiés ici.
 
 Merci pour votre soutien! :smiley:
 

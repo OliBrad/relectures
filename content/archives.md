@@ -9,7 +9,7 @@ summary: archives
 ├── config.yml
 ├── content/
 │   ├── archives.md
-│   └── nouvelles/
+│   └── annonces/
 │   └── recits/
 ├── static/
 └── themes/
