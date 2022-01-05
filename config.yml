@@ -109,7 +109,7 @@ menu:
     #  url: /categories
     #  weight: 30
     - identifier: recherche
-      name: Recherche :mag_right:
+      name: Recherche
       url: /recherche
       weight: 50 
   socialIcons: 
