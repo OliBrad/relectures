@@ -41,7 +41,7 @@ Quelques voix étouffées ont attiré mon regard vers la rue, un étage plus bas
 
 Mon odeur préférée embaumait progressivement l’appartement au rythme régulier du _Hhhhrrrrblbrbrblbrblhhrrhhrr_ de ma petite cafetière. J’ai enfilé mon jogging le plus confortable, un t-shirt léger et une bonne paire de bas de laine dépareillés.
 
-Je mangeais paisiblement mes toasts à la confiture en songeant à ma journée peinarde qui débutait déjà bien. Un bon livre sur le balcon (enfin!), des _pinottes_ au barbecue, une pizza du coin et la joute en soirée. De la bière. Est-ce qu’il me restait de la bière?
+Je mangeais paisiblement mes _toasts_ à la confiture en songeant à ma journée peinarde qui débutait déjà bien. Un bon livre sur le balcon (enfin!), des _pinottes_ au barbecue, une pizza du coin et la joute en soirée. De la bière. Est-ce qu’il me restait de la bière?
 
 J’ai déposé ma deuxième tranche marquée de l’empreinte de ma dernière bouchée et je me suis glissé les pieds jusqu’au frigo. Mhh, non, plus de bière.
 
