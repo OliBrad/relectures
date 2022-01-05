@@ -92,9 +92,9 @@ menu:
       name: Récits
       url: /recits/
       weight: 10
-    - identifier: nouvelles
-      name: Nouvelles
-      url: /nouvelles/
+    - identifier: annonces
+      name: Annonces
+      url: /annonces/
       weight: 20
     - identifier: apropos
       name: À propos
