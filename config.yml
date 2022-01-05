@@ -32,7 +32,7 @@ params:
 
   mainSections:
     - recits
-    - nouvelles
+    - annonces
   
   homeInfoParams:
     Title: Relectures
