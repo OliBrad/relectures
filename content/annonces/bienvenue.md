@@ -1,6 +1,6 @@
 ---
 title: "Bienvenue!"
-date: 2022-01-03T23:14:00-04:00
+date: 2022-01-06T23:14:00-04:00
 draft: false
 ---
 
@@ -10,8 +10,8 @@ Première visite? Consultez la page [À propos]({{< ref "/apropos" >}} "À propo
 
 Je suis super énervé de lancer ce petit site-là. Ça mijote dans ma tête depuis pas loin d'un an, donc j'avais pas mal hâte d'enfin pouvoir en parler!
 
-J'espère que vous aurez du _fun_ à lire les textes qui seront publiés ici.
+J'espère que vous aurez du _fun_ à lire les textes qui seront publiés ici. Le premier s'en vient dans les prochains jours!
 
-Merci pour votre soutien! :smiley:
+Merci pour votre soutien, et bonne lecture! :smiley:
 
 Olivier
