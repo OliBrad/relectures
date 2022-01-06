@@ -17,11 +17,11 @@ ShowShareButtons: true
 
 ---
 
-{{< code-html >}} <div class="contexte"><p>Bienvenue au tout premier texte de Relectures! 🥳 </p>
+{{< code-html >}} <div class="contexte"><p>Bienvenue au tout premier récit de Relectures! 🥳 </p>
 
 <p>Première visite? Consultez la page <a href="/apropos">À propos</a> pour connaître le projet!</p>
 
-<p>Dans ce récit, le personnage s'apprête à sortir de chez lui lors d'une matinée ben relax. La référence culturelle dont je me suis inspirée dans ce texte est révélée à la fin du récit. Bonne lecture!</p></div>
+<p>Dans ce récit, le personnage s'apprête à sortir de chez lui lors d'une matinée ben relax. La référence culturelle dont je me suis inspirée est révélée à la fin de l'histoire. Bonne lecture!</p></div>
 
 {{< /code-html >}}
 
