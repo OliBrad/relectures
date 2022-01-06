@@ -1,6 +1,6 @@
 ---
 title: "001 - Le plus long de mes hivers"
-date: 2022-01-03T16:00:00-04:00
+date: 2022-01-11T16:00:00-04:00
 draft: false
 
 tags: ["bleu jeans bleu", "coton ouaté", "", ]
