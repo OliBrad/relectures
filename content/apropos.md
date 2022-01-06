@@ -15,13 +15,13 @@ Je m'appelle Olivier, et j'ai lancé ce projet pour le _fun_ au début 2021.
 
 Avec Relectures, je m'inspire de références québécoises (pour la plupart) pour composer de courts récits de fiction. Chaque texte reprend un ou plusieurs détails de ces histoires, vidéos virales, chansons ou moments de l'actualité pour les transposer dans un univers fictif complètement différent.
 
-Une brève mise en contexte précède chacun des récits. Parfois, cette courte présentation fera mention de la source de mon inspiration. La plupart du temps, toutefois, c'est seulement à la toute fin du récit qu'elle vous sera révélée. Au fil de votre lecture, arriverez-vous à deviner de quoi il s'agit? :eyes:
+Une brève mise en contexte précède chacun des récits. Parfois, cette courte présentation fera mention de la source de mon inspiration. La plupart du temps, cependant, c'est seulement à la toute fin du récit qu'elle vous sera révélée. Au fil de votre lecture, devinerez-vous de quoi il s'agit? :eyes:
 
-Vous y trouverez toujours un lien vers la référence elle-même, ou vers un complément d'information. Comme ça, tout le monde comprend bien de quoi on parle!
+Pour chaque récit, vous trouverez toujours un lien vers la référence elle-même, ou vers un complément d'information. Comme ça, tout le monde comprend bien de quoi on parle!
 
 > Quel genre de personnage la célèbre Yolande Ouellet pourrait-elle incarner dans un récit d'enquête western?
 >
-> Comment la fameuse dinde noire su'l _couch_ pourrait se manifester dans un récit fantastique moyen-âgeux?
+> Comment la fameuse dinde noire su'l _couch_ pourrait se manifester dans un récit fantastique médiéval?
 
 Suivez Relectures sur [Facebook](https://www.facebook.com/relectures.ca), [Twitter](https://twitter.com/relectures_) et [Instagram](https://www.instagram.com/relectures/) pour ne rien manquer!
 
