@@ -1,6 +1,6 @@
 ---
-title: "001 - Le plus long hiver"
-date: 2022-01-03T23:34:04-04:00
+title: "001 - Le plus long de mes hivers"
+date: 2022-01-03T16:00:00-04:00
 draft: false
 
 tags: ["bleu jeans bleu", "coton ouaté", "", ]
@@ -21,7 +21,7 @@ ShowShareButtons: true
 
 <p>Première visite? Consultez la page <a href="/apropos">À propos</a> pour connaître le projet!</p>
 
-<p>La source d'inspiration de ce texte est révélée à la fin du récit. Bonne lecture!</p></div>
+<p>Dans ce récit, le personnage s'apprête à sortir de chez lui lors d'une matinée ben relax. La référence culturelle dont je me suis inspirée dans ce texte est révélée à la fin du récit. Bonne lecture!</p></div>
 
 {{< /code-html >}}
 
