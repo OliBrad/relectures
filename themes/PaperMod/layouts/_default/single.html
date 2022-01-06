@@ -30,15 +30,14 @@
     {{- partial "anchored_headings.html" .Content -}}
   </div>
   <footer class="post-footer">
-  <!-- Ko-Fi bouton -->
-  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Offrez-moi un café!', '#d1c300', 'H2H254F8N');kofiwidget2.draw();</script> 
     {{- if .Params.tags }}
     <ul class="post-tags">
       {{- range ($.GetTerms "tags") }}
       <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
       {{- end }}
     </ul>
-
+<!-- Ko-Fi bouton -->
+    <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Offrez-moi un café!', '#d1c300', 'H2H254F8N');kofiwidget2.draw();</script> 
     {{- end }}
     {{- if (.Param "ShowPostNavLinks") }}
     {{- partial "post_nav_links.html" . }}
