@@ -76,8 +76,6 @@ Le gars s’est arrêté après un ou deux pas hésitants. Il semblait chercher 
 
 <p>À bientôt!</p>
 
-<!-- Ko-Fi bouton -->
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Offrez-moi un café!', '#d1c300', 'H2H254F8N');kofiwidget2.draw();</script> 
 </div>
 
 {{< /code-html >}}
