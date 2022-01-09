@@ -17,7 +17,7 @@ ShowShareButtons: true
 ---
 {{< code-html >}} 
 <div class="contexte">
-<p>Bienvenue au tout premier récit de Relectures! 🥳 </p>
+<p>Bienvenue au tout premier récit de Relectures! 🥳</p>
 
 <p>Première visite? Consultez la page <a href="/apropos" target="_blank">À propos</a> pour connaître le projet!</p>
 
