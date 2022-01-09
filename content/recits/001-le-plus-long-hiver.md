@@ -1,5 +1,5 @@
 ---
-title: "001 - Le plus long de mes hivers"
+title: "002 - Le plus long de mes hivers"
 date: 2022-01-31T16:00:00-04:00
 draft: false
 
@@ -19,7 +19,7 @@ ShowShareButtons: true
 
 {{< code-html >}} <div class="contexte"><p>Bienvenue au tout premier récit de Relectures! 🥳 </p>
 
-<p>Première visite? Consultez la page <a href="/apropos">À propos</a> pour connaître le projet!</p>
+<p>Première visite? Consultez la page <a href="/apropos" target="_blank">À propos</a> pour connaître le projet!</p>
 
 <p>Dans ce récit, le personnage s'apprête à sortir de chez lui lors d'une matinée ben relax. La référence culturelle dont je me suis inspirée est révélée à la fin de l'histoire. Bonne lecture!</p></div>
 
@@ -68,7 +68,7 @@ Le gars s’est arrêté après un ou deux pas hésitants. Il semblait chercher 
 \- Fait tu frette? ...
 
 {{< code-html >}} 
-<div class="contexte"><p>L'inspiration de ce premier récit m'est venue en ayant en tête la fameuse chanson de <a href= "https://www.youtube.com/watch?v=_whvVXX0hCk">Bleu Jeans Bleu</a>!</p>
+<div class="contexte"><p>L'inspiration de ce premier récit m'est venue en ayant en tête la fameuse chanson de <a href= "https://www.youtube.com/watch?v=_whvVXX0hCk" target="_blank">Bleu Jeans Bleu</a>!</p>
 
 <p>Je me demandais: "À quoi pourrait bien ressembler le quotidien d’un gars qui demande aux passants si on est ben juste en coton ouaté?"</p>
 
