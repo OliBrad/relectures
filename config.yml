@@ -2,7 +2,7 @@ baseURL: https://www.relectures.ca/
 languageCode: fr
 Title: Relectures
 theme: "PaperMod"
-Description: Réinterprétations de références québécoises à travers de courts récits de fiction
+Description: "Réinterprétations de références québécoises à travers de courts récits de fiction"
 keywords: [relectures, blog, fiction, québec, humour, littérature, olivier bradette]
 DefaultContentLanguage: fr
 # DateFormat: 2 janvier 2006
