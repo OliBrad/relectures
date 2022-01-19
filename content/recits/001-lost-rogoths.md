@@ -4,7 +4,7 @@ date: 2022-01-09T11:30:00-05:00
 description: "Je trouvais qu’il y avait un rapprochement à faire entre la situation dont je m’inspire et une certaine série culte de science-fiction. Les références dont il est question sont révélées à la fin de l'histoire."
 draft: false
 hidemeta: false
-hideSummary: true
+hidedescription: true
 
 tags: ["sunwing", "tulum", "lost", "science-fiction", "ostrogoth" ]
 categories: [""]
