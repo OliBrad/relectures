@@ -1,7 +1,9 @@
 ---
 title: "001 - LOST-ROGOTHS"
 date: 2022-01-09T11:30:00-05:00
+description: "Je trouvais qu’il y avait un rapprochement à faire entre la situation dont je m’inspire et une certaine série culte de science-fiction. Les références dont il est question sont révélées à la fin de l'histoire."
 draft: false
+hidemeta: false
 
 tags: ["sunwing", "tulum", "lost", "science-fiction", "ostrogoth" ]
 categories: [""]
@@ -14,6 +16,10 @@ cover:
   relative: false # To use relative path for cover image, used in hugo Page-bundles
 
 ShowShareButtons: true
+searchHidden: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
 ---
 {{< code-html >}} 
 <div class="contexte">
