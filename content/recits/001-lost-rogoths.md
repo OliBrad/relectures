@@ -1,8 +1,8 @@
 ---
 title: "001 - LOST-ROGOTHS"
 date: 2022-01-09T11:30:00-05:00
-description: "Je trouvais qu’il y avait un rapprochement à faire entre la situation dont je m’inspire et une certaine série culte de science-fiction. Les références dont il est question sont révélées à la fin de l'histoire."
 draft: false
+meta: "Un groupe de voyageurs se retrouve échoués sur une mystérieuse île tropicale"
 hidemeta: false
 hidedescription: true
 
