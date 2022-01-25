@@ -2,7 +2,7 @@
 title: "Test Publication"
 date: 2022-01-25T00:14:07-05:00
 
-draft: false
+draft: true
 meta: ""
 hidemeta: false
 hidedescription: true
