@@ -26,7 +26,7 @@ ShowPostNavLinks: true
 <div class="contexte">
 <p>Salut! Avec les froids récents, j’avais envie d’un récit digne de nos hivers :snowflake: </p>
 
-<p>L’histoire se passe loin des grands centres urbains, au milieu de la forêt par une soirée glaciale du début janvier. Tout semble bien se dérouler pour notre personnage principal, jusqu’à ce qu’un événement pas mal inattendu survienne…</p>
+<p>L’histoire se passe loin des grands centres urbains, au milieu de la forêt, par une soirée glaciale du début janvier. Tout semble bien se dérouler pour le personnage principal, jusqu’à ce qu’un événement pas mal inattendu survienne…</p>
 
 <p>À ce contexte s’ajoute une référence bien connue qui constitue le point de départ de la construction de cette histoire. La reconnaîtrez-vous? Les explications sont à la fin du récit. Bonne lecture! :wink:</p>
 
