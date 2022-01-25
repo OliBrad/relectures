@@ -121,7 +121,7 @@ Dans l’incompréhension la plus totale, Steve rejoint ses hôtes, saute dans s
 
 Sous la lueur brillante de la pleine lune, le phare de sa motoneige s’allume par lui-même et éblouit les trois amis. Le moteur de l’engin démarre sans avertissement et se met à rugir avec une violence telle que Steve fait un pas en arrière.
 
-“C’est trop tard! On n’aura jamais le temps!”, s’exclame Allie qui fonce vers le _ski-doo_ enragé en brandissant ses chaînes, suivie de Sylvie. Steve, quant à lui, descend une à une les escaliers de la petite galerie. Il observe la situation, la bouche tordue par la confusion et la peur. Le bruit est assourdissant. Un épais nuage de fumée envahit le terrain.
+“C’est trop tard! On n’aura jamais le temps!”, s’exclame Allie qui fonce vers le _ski-doo_ enragé en brandissant ses chaînes, suivie de Sylvie. Steve, quant à lui, descend une à une les marches de la petite galerie. Il observe la situation, la bouche tordue par la confusion et la peur. Le bruit est assourdissant. Un épais nuage de fumée envahit le terrain.
 
 Les deux femmes se rapprochent de leur but. À cet instant, les chenilles de la motoneige s’activent. La machine s’élance agilement en direction de la forêt et esquive la charge de ses assaillantes.
 
