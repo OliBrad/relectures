@@ -6,11 +6,11 @@ meta: "Un groupe de voyageurs se retrouve échoués sur une mystérieuse île tr
 hidemeta: false
 hidedescription: true
 
-tags: ["sunwing", "tulum", "lost", "science-fiction", "ostrogoth" ]
+tags: ["sunwing", "tulum", "lost", "science-fiction", "ostrogoth"]
 categories: [""]
 
 cover:
-  image: "/002.jpg"
+  image: "/001.jpg"
   
   alt: "Une île déserte vue depuis la plage au bord de l'océan"
   caption: "Photo: Delphine Fant, sur Unsplash"

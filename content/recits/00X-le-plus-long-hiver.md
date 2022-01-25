@@ -1,13 +1,13 @@
 ---
-title: "002 - Le plus long de mes hivers"
-date: 2022-01-31T16:00:00-04:00
+title: "00X - Le plus long de mes hivers"
+date: 2023-01-31T16:00:00-04:00
 draft: false
 
 tags: ["bleu jeans bleu", "coton ouaté", "", ]
 categories: [""]
 
 cover:
-  image: "/001.jpg"
+  image: "/00X.jpg"
   
   alt: "Des manteaux sur une pôle"
   caption: "Photo: Fernando Lavin, sur Unsplash"
