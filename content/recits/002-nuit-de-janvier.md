@@ -9,7 +9,7 @@ hidedescription: true
 tags: ["francois perusse", "ski-doo", "album du peuple", "motoneige", "fantastique"]
 categories: [""]
 
-feature:
+cover:
   image: "/002.jpg"
   
   alt: "Une cabane de bois dans un paysage d'hiver nocturne"
