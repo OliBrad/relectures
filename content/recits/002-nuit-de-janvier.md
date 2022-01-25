@@ -129,7 +129,7 @@ Sylvie et Allie plongent en vain et se retrouvent étendues dans la neige. À l�
 
 Le temps se fige. La lumière s’approche de Steve, la colère du moteur emplit ses oreilles. Le pauvre homme perçoit à peine les cris de ses amies. Au moment où il reprend ses esprits, le _ski-doo_ le contourne par une manœuvre impressionnante qu’aucun pilote ne parviendrait à négocier. Le casque de Steve roule au sol et s’immobilise à ses pieds.
 
-La machine s’élance en vitesse sur un monticule de neige et effectue un saut d’une hauteur spectaculaire. Malgré son ébranlement, Steve ne peut qu’admirer la scène devant lui: sa motoneige vole tout en grâce dans les airs. De gros flocons volent tout autour. La silhouette du _ski-doo_ passe en plein centre du cercle lunaire. Le bolide termine son vol plané et dévale la pente face au chalet. 
+La machine s’élance en vitesse sur un monticule de neige et effectue un saut d’une hauteur spectaculaire. Malgré son ébranlement, Steve ne peut qu’admirer la scène devant lui: sa motoneige vole tout en grâce dans les airs. De gros flocons volent tout autour. La silhouette du _ski-doo_ passe en plein centre de la lune blanche. Le bolide termine son vol plané et dévale la pente face au chalet. 
 
 Le bruit s’estompe à mesure que l’engin s’éloigne en slalomant à travers les arbres. Sylvie, Allie et Steve accourent au bord de la colline. Le faisceau lumineux oscille en direction de la plaine.
 
