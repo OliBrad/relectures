@@ -10,7 +10,7 @@ tags: ["francois perusse", "ski-doo", "album du peuple", "motoneige", "fantastiq
 categories: [""]
 
 cover:
-  image: "/00X.jpg"
+  image: "/002.jpg"
   
   alt: "Une cabane de bois dans un paysage d'hiver nocturne"
   caption: "Photo: Paolo Margari, sur Unsplash"
