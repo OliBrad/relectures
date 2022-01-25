@@ -153,7 +153,7 @@ Steve est saisi. Il constate faiblement, dans un soupir:
 
 {{< code-html >}} 
 <div class="contexte">
-<p>Un <em>ski-doo</em>, on peut tu laisser ça dans’ cour? Ish!”</p>
+<p>"Un <em>ski-doo</em>, on peut tu laisser ça dans’ cour? Ish!” :grimacing:</p>
 
 <p>Ce dialogue, et le sketch entier duquel il est tiré, sont certainement l’une des <a href="https://www.youtube.com/watch?v=V-VbVJ1DkxY" target="_blank">références de François Pérusse</a> les plus cités par ses <em>fans</em>.</p>
 
