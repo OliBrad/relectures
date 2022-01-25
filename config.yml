@@ -7,7 +7,7 @@ keywords: [relectures, blog, fiction, québec, humour, littérature, olivier bra
 DefaultContentLanguage: fr
 # DateFormat: 2 janvier 2006
 
-buildFuture: false
+buildFuture: true
 
 googleAnalytics: 
 

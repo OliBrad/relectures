@@ -1,7 +1,7 @@
 ---
 title: "Test Publication"
-date: 2022-01-23T23:45:07-05:00
-publishdate: 2022-01-25T00:04:07-05:00
+date: 2022-01-25T00:14:07-05:00
+
 draft: false
 meta: ""
 hidemeta: false
