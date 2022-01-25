@@ -137,7 +137,7 @@ Un craquement sec provenant du garage fait sursauter l’homme sous le choc. De 
 
 Allie pose une main sur l’épaule de Steve.
 
-“C’est les nôtres. Eux aussi veulent partir dans la plaine. T’inquiète pas, ils sortiront pas.", lui explique-elle d’une voix rassurante en montrant les grosses chaînes. "Désolée pour ton _ski-doo_…”
+“C’est les nôtres. Eux aussi veulent partir. T’inquiète pas, ils sortiront pas.", lui explique-elle d’une voix rassurante en montrant les grosses chaînes. "Désolée pour ton _ski-doo_…”
 
 Steve regarde brièvement le garage. De violentes secousses font trembler la structure et tomber de la neige du toit alors que les deux motoneiges hurlent à la lune. Déconfit, il ramène ses yeux sur la vallée.
 
@@ -147,7 +147,7 @@ Steve aperçoit son véhicule au loin, filant joyeusement entre des ruisseaux. A
 
 Steve est saisi. Il constate faiblement, dans un soupir:
 
-“C’est heavy… C’est heavy en maudit.”
+“C’est _heavy_… C’est _heavy_ en maudit.”
 
 +++
 
