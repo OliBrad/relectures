@@ -10,7 +10,7 @@ tags: ["sunwing", "tulum", "lost", "science-fiction", "ostrogoth"]
 categories: [""]
 
 cover:
-  image: "/001.jpg"
+  image: "/002.jpg"
   
   alt: "Une île déserte vue depuis la plage au bord de l'océan"
   caption: "Photo: Delphine Fant, sur Unsplash"
