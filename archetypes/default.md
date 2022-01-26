@@ -10,7 +10,7 @@ tags: []
 categories: [""]
 
 cover:
-  image: "/.jpg"
+  image: "/recits/.jpg"
   
   alt: ""
   caption: "Photo:"
