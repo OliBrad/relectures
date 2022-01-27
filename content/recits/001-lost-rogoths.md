@@ -120,6 +120,10 @@ Personne ne viendrait les chercher.
 
 <p> À bientôt! ✈</p>
 
+<p>Si vous avez apprécié votre lecture et que vous avez envie de partager ce récit, vous me donneriez un super coup de pouce! :hearts:</p>
+
+<p>Toutes les updates de Relectures sont sur <a href=”https://www.facebook.com/relectures.ca”>Facebook</a>, <a href=”https://www.instagram.com/relectures/”>Instagram</a> et <a href=”https://twitter.com/relectures_”>Twitter</a>.</p>
+
 </div>
 
 {{< /code-html >}}
