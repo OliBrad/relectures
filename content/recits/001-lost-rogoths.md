@@ -34,7 +34,7 @@ ShowPostNavLinks: true
 </div>
 {{< /code-html >}}
 
-+++
+↓↓↓
 
 JS reprit ses esprits. Il était étendu de tout son long sur la terre humide, entouré de pousses de bambou. Le soleil chaud des tropiques se faufilait entre l’épais feuillage de la forêt et lui caressait le visage. Le ronronnement de l’océan faisait légèrement vibrer le sol sous son dos. 
 
@@ -108,7 +108,7 @@ Les survivants comprirent à cet instant dans quel pétrin ils se trouvaient. Ha
 
 Personne ne viendrait les chercher.
 
-+++
+↓↓↓
 
 {{< code-html >}} 
 <div class="contexte">

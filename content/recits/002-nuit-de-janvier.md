@@ -34,7 +34,7 @@ ShowPostNavLinks: true
 </div>
 {{< /code-html >}}
 
-+++
+↓↓↓
 
 Steve a le gros sourire accroché au visage. Il file à toute allure entre les arbres enneigés des sentiers de la Branche-Ouest. À l’intérieur du boîtier de rangement de sa motoneige flambant neuve se trouve un vinier de 3 litres de son vin préféré, un _six-pack_ de bonnes _Wild Cat_ et de quoi préparer un repas chaud et réconfortant. 
 
@@ -149,7 +149,7 @@ Steve est saisi. Il constate faiblement, dans un soupir:
 
 “C’est _heavy_… C’est _heavy_ en maudit.”
 
-+++
+↓↓↓
 
 {{< code-html >}} 
 <div class="contexte">
