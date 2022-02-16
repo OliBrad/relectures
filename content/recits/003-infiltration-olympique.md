@@ -99,7 +99,8 @@ L’ambiance dans l’amphithéâtre est électrique. La foule en liesse témoig
 
 Le moment tant attendu des partisans arrive enfin: les deux derniers duos allaient s’élancer dans un ultime effort pour décrocher la médaille d’or. L’infiltrée sent ses mains devenir moites. Elle devrait bientôt, si nécessaire, exécuter ses ordres et manipuler les résultats. Elle se rappelle clairement l’énoncé dans sa lettre d’instructions:
 
-Vous devrez favoriser le couple russe en sabotant la note de leurs adversaires directs: les Canadiens.
+> _Vous devrez favoriser le couple russe en sabotant la note de leurs adversaires directs: les Canadiens._
+
 L’équipe de la Russie saute sur la glace sous un tonnerre d’applaudissements. La paire avait été irréprochable dans son programme court et avait décroché la première place provisoire. Les Canadiens avaient commis une légère faute technique, mais les talonnaient en deuxième position. 
 
 Tout se jouerait donc dans les prochaines minutes. Tout le monde retenait son souffle. Qu’allait-il se passer? Qui l’emporterait? 
