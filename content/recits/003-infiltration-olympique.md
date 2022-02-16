@@ -38,6 +38,7 @@ ShowPostNavLinks: true
 +++
 
 **New York - 6 février 2002 - 23h20**
+
 L'agente 47 pose son fusil à silencieux sur la table de son appartement stérile et sans personnalité. Le canon de l'arme est encore tiède. L'espionne s'assied. En silence, elle astique le pistolet 9 mm qu’elle vient d’utiliser pour son dernier contrat.
 
 Une autre mission accomplie parfaitement. L’espionne les enchaînait méthodiquement depuis son affectation en Amérique du Nord à l’automne 2001. Malgré les dernières semaines chargées, elle attendait ses prochaines instructions avec son indifférence et son stoïcisme habituels.
@@ -61,6 +62,7 @@ Aussitôt seule dans la laverie, l’agente 47 s’assied à la petite table de 
 L’agente 47 mâchouille une énorme gomme dure aux cerises en rentrant chez elle. L’espionne prépare un bagage léger dans lequel elle place le petit paquet de son plaisir coupable, puis s’endort dès que sa tête touche l’oreiller.
 
 **Salt Lake City - Hôtel des juges - 7 février 2002 - 13h50**
+
 L’agente 47 ressent une légère pointe de joie. Devant elle se dresse l’hôtel majestueux où elle séjournera durant les Olympiques. Enfin, un endroit commode et calme!
 
 Dans le confort de sa chambre, l’espionne prend une pause pour observer les montagnes de l’Utah ceinturant la ville. Le climat de tension qui habite le pays depuis septembre 2001 se manifeste clairement devant elle: des hélicoptères balayent le ciel, et les forces policières et militaires occupent les rues, plusieurs étages plus bas. Les autorités sont sur les dents.
@@ -80,6 +82,7 @@ Sur une table basse stylisée, la jeune femme trouve l’enveloppe brune qui con
 L’agente 47 poursuit la lecture de la lettre, puis étudie le fonctionnement du système informatique de notation. Dans les deux prochains jours, l’infiltrée assistera à des rencontres en compagnie du jury, de quoi se mettre bien à l’aise avec son rôle d'officielle. Remplie de confiance, elle se met au lit et s’endort aussitôt.
 
 **Salt Lake City - Hôtel des juges - 10 février 2002 - 7h15**
+
 C’est le premier jour des compétitions de patinage artistique en couple.  
 
 L’air déterminé, l’agente 47 soigne sa coiffure devant le miroir de sa suite de luxe. Elle empoigne son porte-document et s’élance dans le corridor avant de rebrousser chemin aussitôt.
@@ -89,6 +92,7 @@ Elle déverrouille la porte et se dirige droit sur son sac de voyage. Elle y ré
 Elle ressort de sa suite, la joue gauche gonflée comme celle d’un écureuil.
 
 **Salt Lake City - Amphithéâtre des compétitions - 11 février 2002 - 15h38**
+
 L’ambiance dans l’amphithéâtre est électrique. La foule en liesse témoigne bruyamment son admiration envers les athlètes. Les premiers couples exécutent leur deuxième et dernière épreuve, le programme libre.
 
 À la suite de chaque performance, la voix terne de la juge basée au quartier général résonne à l’oreille de l’agente 47: “5.5, 5.7…” Avec ses deux jours d’expérience, la nouvelle juge s’amuse à estimer le résultat des prestations avant de recevoir ses directives. Elle se surprend souvent à accorder exactement les mêmes notes que l’experte dans son oreillette.
@@ -131,6 +135,7 @@ L’infiltrée doit faire de même. La voix de la juge retentit dans son oreille
 Le temps file. C'est maintenant que le plan doit se mettre à exécution. Le doute s'empare de l’agente 47. Pour la première fois de sa carrière, elle songe à ne pas respecter ses ordres. La performance des prétendants au titre était tellement bonne qu'il ne ferait aucun sens de leur accorder une mauvaise note. "Ça va se savoir, c'est beaucoup trop évident!"
 
 Les idées se bousculent. Elle ne parvient pas à se décider.
+
 **Que devrait faire l’agente 47? Obéir à ses ordres en faisant éclater un tollé? Désobéir et risquer des représailles?**
 
 {{< code-html >}} 
@@ -172,6 +177,74 @@ function myFunction2() {
 
 <div id="option1">
 <p><strong>Obéir</strong></p>
+
+<p>L’espionne se ressaisit en respirant profondément. Elle tape les chiffres avec froideur. Les résultats apparaissent à l’écran géant. C’est la consternation. Le public hue la décision du jury, qui n’y comprend rien non plus.</p>
+
+<p>L’agente 47 sent quelques regards suspicieux la fixer. Elle rassemble ses papiers en feignant une moue déconcertée peu convaincante, puis se dirige hâtivement hors de la vue des caméras en bas de l’estrade.</p>
+
+<p>La voix familière de sa supérieure lui dit dans l’oreillette:</p>
+
+<p>“Notre client vous transmet ses remerciements, 47. On dirait toutefois que ce complot ne passera pas inaperçu… Regagnez rapidement votre chambre, et présentez-vous au débarcadère de l’hôtel dans une heure. L’unité d’extraction est en route pour vous rapatrier.”</p>
+
+<p>L’infiltrée marche avec prudence dans les corridors bondés de l’amphithéâtre. Autour, on crie au scandale. À quelques dizaines de mètres devant elle, une large porte métallique s’ouvre. Une horde de journalistes internationaux en jaillit et fonce dans sa direction.</p>
+
+<p>La fausse juge scrute les alentours à la recherche d’une issue. À sa droite, une armoire de concierge semble entrouverte. Elle s’y engouffre, puis trouve un uniforme d’employée de l’entretien ménager et un gros seau vide. Parfait déguisement.</p>
+
+<p>Affublée d’une combinaison un peu large et d’une casquette des Jeux olympiques bien enfoncée sur la tête, elle regagne le corridor, le seau contenant ses habits à la main. Reste à trouver un endroit où se changer avant de rejoindre l’hôtel. La nouvelle concierge sort de sa poche un fameux casse-gueule aux cerises qu’elle mâche nonchalamment.</p>
+
+<p>La cinquantaine de journalistes, photographes et caméramans la croisent et l’ignorent complètement. L’espionne remonte la palette de la casquette avec un sourire en coin. Mais un détail la met en alerte: les membres de la presse n’ont que les mots “juge française” sur les lèvres. Il lui faut sortir de là immédiatement.</p>
+
+<p><strong>Salt Lake City - Hôtel des juges - 11 février 2002 - 19h08</strong></p>
+
+<p>Deux ou trois fêtards en boisson sourcillent en apercevant une jeune femme en tailleur émerger d’un conteneur à déchets.</p>
+
+<p>L’agente 47 regagne l’hôtel en vitesse. Plus que 6 minutes avant l’arrivée de l’extraction. Dans le vestibule, plusieurs télévisions diffusent un bulletin de nouvelles. Le scandale fait déjà le tour du monde. Les voix d’analystes fustigent le CIO et les juges. Le personnel de l’établissement et plusieurs clients sont massés autour des écrans et discutent de la situation avec passion.</p>
+
+<p>À l'instant où l’espionne passe près du groupe, les multiples écrans montrent son visage en plan rapproché. “La nouvelle juge française est soupçonnée d’avoir triché en favorisant les Russes…”, résume un journaliste sportif.</p>
+
+<p>“Ooohh!”, s’exclament quelques personnes qui reconnaissent l’infiltrée qui attend impatiemment l'ascenseur au bout du hall. “Mais madame, comment avez-vous osé…” </p>
+
+<p>Ding! La porte de l’ascenseur se referme. L’agente souffle en regardant sa montre. 3 minutes. Elle est dorénavant à découvert.</p>
+
+<p>“Si tu rates ton lift, ton lift ne revient pas”, se répète-t-elle nerveusement.</p>
+
+<p>L’ascenseur s’ouvre enfin. La juge démasquée traverse le couloir vide en courant. Elle s’engouffre dans sa chambre, troque son veston pour un simple chandail noir à manches longues, puis entasse ses longs cheveux à l’intérieur d’une tuque de laine sombre. Elle récupère son sac de voyage et se précipite vers l’ascenseur qui, heureusement, n'a pas bougé.</p>
+
+<p>L’ascenseur atteint le rez-de-chaussée. L’adrénaline monte en elle. Une minute. L’espionne entend des clameurs étouffées derrière les portes capitonnées de la cabine.</p>
+
+<p>“Merde.”, lance-t-elle tout haut.</p>
+
+<p>Ding! Les portes s’ouvrent. Des flashs d’appareils photo et des lumières de caméras l’éblouissent. Des dizaines de journalistes l’entourent et lui crient un flot ininterrompu de questions. Les moumoutes des micros lui chatouillent le bout du nez tellement les reporters l'approchent Elle tente de tracer son chemin à travers l’attroupement. Rien à faire.</p>
+
+<p>L’agente 47 jette un coup d'œil au-dessus des têtes de ce tas de monde hystérique. Par les grandes portes vitrées de l’hôtel, elle le voit arriver. Le fourgon banalisé venu la chercher se stationne en trombe.</p>
+
+<p>C’est maintenant ou jamais, elle n’a qu’une seule chance de fuir. De son sac, elle saisit discrètement une petite bonbonne. La fugitive 
+lance un regard assassin aux journalistes insistants, puis elle la fracasse au sol.</p>
+
+<p>BANG! Un nuage de gaz lacrymogène envahit le hall de l’hôtel. Les journalistes en panique tombent à la renverse et trébuchent les uns sur les autres en toussant. L’espionne se faufile au-travers de la masse confuse jusqu’à la sortie.</p>
+
+<p>Le moteur du fourgon rugit d’impatience. Les yeux irrités, l’agente plonge à l’aveuglette dans l’ouverture de la porte latérale du véhicule. Celle-ci se referme aussitôt en coulissant, puis le fourgon démarre en faisant crisser les pneus. La jeune femme voit tout en flou. Ses yeux lui font mal. Des voix enthousiastes la félicitent:</p>
+
+<p>“C’était moins une, 47. Mais bien joué là-dedans, bien joué!”</p>
+
+<p><strong>Paris - 17 février 2002 - 15h12</strong></p>
+
+<p>“Bienvenue, 47. Vous comprenez que nous n’avions d’autre choix que de vous rapatrier d’urgence au quartier général. La situation devenait beaucoup trop risquée en sol états-unien, explique la supérieure de l’agente d’une voix cordiale. Étant donné l’attention médiatique très… intense que cette mission a causée, nous vous confierons des tâches plus… cléricales pour les prochains mois au minimum.”</p>
+
+<p>La dame distinguée choisissait bien ses mots, connaissant la profonde aversion de sa subordonnée envers la paperasse. D’un autre côté, elle était clairement amusée de voir l’espionne bouder.</p>
+
+<p>L’agente soupire, puis fait un signe de tête respectueux à son interlocutrice. Elle s’assied à un grand bureau plein de dossiers. Sa supérieure allume une télévision dans le bureau à l’architecture moderne.</p>
+ 
+<p>“Vous voudrez certainement voir le dénouement de cette histoire. Tout ceci est hors de notre contrôle. Notre client s’est simplement mal préparé. Vous avez rempli votre objectif. Merci, 47”, dit-elle sincèrement avant de laisser sa subordonnée seule devant l'écran.</p>
+
+<p>L’espionne écoute avec surprise la couverture en direct des Jeux: “Le CIO a enquêté et révélé le complot favorisant les Russes. La fédération olympique de Russie aurait soudoyé une juge française pour obtenir un vote en sa faveur. La juge fautive en question a cependant mystérieusement disparu”. </p>
+
+<p>Pour l’une des rares fois de l’histoire des Jeux olympiques, une deuxième médaille d’or est remise. À la télé, les Canadiens arborent fièrement leur nouvelle médaille.</p>
+
+<p>L’agente 47 se lève et éteint la télévision. “Les Canadiens méritaient de gagner.” Elle se rassoit au bureau et entame sa paperasse, un grand sourire aux lèvres.</p>
+
+<p>+++</p>
+
 </div>
 
 <div id="option2">
