@@ -177,7 +177,7 @@ function myFunction2() {
 
 <button onclick="myFunction2()" onclick="hideoption1()" style="background:var(--secondary); color:var(--theme); padding: 10px; border: 1px solid var(--secondary);">Désobéir</button>
 
-+++
+<p>+++</p>
 
 <div id="option1">
 <p><strong>Obéir</strong></p>
