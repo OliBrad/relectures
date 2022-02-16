@@ -87,7 +87,7 @@ C’est le premier jour des compétitions de patinage artistique en couple.
 
 L’air déterminé, l’agente 47 soigne sa coiffure devant le miroir de sa suite de luxe. Elle empoigne son porte-document et s’élance dans le corridor avant de rebrousser chemin aussitôt.
 
-Elle déverrouille la porte et se dirige droit sur son sac de voyage. Elle y récupère son précieux paquet de grosses gommes aux cerises qu’elle dépose dans la poche de son veston. Les friandises y resteront pour le reste des Jeux.
+Elle déverrouille la porte et se dirige droit sur son sac de voyage. Elle y récupère son précieux paquet de grosses gommes aux cerises qu’elle dépose dans la poche de son veston. Les _chewing-gums_ y resteront pour le reste des Jeux.
 
 Elle ressort de sa suite, la joue gauche gonflée comme celle d’un écureuil.
 
@@ -206,7 +206,7 @@ function myFunction2() {
 
 <p>Ding! La porte de l’ascenseur se referme. L’agente souffle en regardant sa montre. 3 minutes. Elle est dorénavant à découvert.</p>
 
-<p>“Si tu rates ton lift, ton lift ne revient pas”, se répète-t-elle nerveusement.</p>
+<p>“Si tu rates ton <em>lift</em>, ton <em>lift</em> ne revient pas”, se répète-t-elle nerveusement.</p>
 
 <p>L’ascenseur s’ouvre enfin. La juge démasquée traverse le couloir vide en courant. Elle s’engouffre dans sa chambre, troque son veston pour un simple chandail noir à manches longues, puis entasse ses longs cheveux à l’intérieur d’une tuque de laine sombre. Elle récupère son sac de voyage et se précipite vers l’ascenseur qui, heureusement, n'a pas bougé.</p>
 
@@ -249,6 +249,76 @@ lance un regard assassin aux journalistes insistants, puis elle la fracasse au s
 
 <div id="option2">
 <p><strong>Désobéir</strong></p>
+
+<p>Non, cette tricherie n’a aucun sens. Les Canadiens ont été magiques. L’infiltrée retient son souffle et laisse ses doigts relevés au-dessus du clavier un instant.</p>
+
+<p>“C’était du grand art. 5.9 et 5.9.”, se souffle-t-elle.</p>
+
+<p>Les résultats apparaissent aussitôt à l’écran géant. La foule explose de joie. Les Canadiens mettent fin à une longue dynastie de domination russe et remportent l’or!</p>
+
+<p>Dans son oreillette, l’agente entend la juge déconcertée balbutier maladroitement. Un grésillement se fait entendre, puis la voix enragée de sa supérieure lui donne mal au tympan:</p>
+
+<p>“Vous aviez une chose à faire! Une! Qu’est-ce qui vous prend, 47?! Nos clients ont des agents doubles partout! Ils vous traquent sans doute déjà! Vous venez de compromettre notre agence. Vous êtes seule, maintenant. Si je vous recroise un jour…”</p>
+
+<p>L’espionne remarque du mouvement à sa droite. À quelques dizaines de mètres, deux hommes déguisés en gardiens de sécurité des Jeux se dirigent vers elle. Ils parlent dans des micros dissimulés sous les manches de leurs chemises. La jeune femme retire son oreillette et la jette à la poubelle.</p>
+
+<p>Les autres juges discutent et se serrent la main, satisfaits de l’impartialité et de l’esprit sportif de leurs homologues. L’infiltrée feint maladroitement de l’enthousiasme en saluant rapidement ses collègues. Elle se retourne et aperçoit deux autres gardes baraqués qui s’approchent.</p>
+
+<p>L’espionne saisit son porte-document et quitte la tribune des juges. Elle franchit une porte et marche d’un pas précipité dans un large corridor de l’amphithéâtre. Celui-ci est presque désert: la plupart des partisans demeurent à leur place pour assister à la remise des médailles.</p>
+
+<p>Les quatre poursuivants resserrent l’écart et ne sont plus qu’à un jet de pierre de la fausse juge. Au-dessus de leurs têtes, la structure de béton vibre tellement la foule donne de l’amour aux champions olympiques.</p>
+
+<p>L’agente 47 fonce vers les toilettes des femmes qui sont heureusement vides. Elle entre dans une cabine et monte sur la cuvette. Elle soulève une tuile du plafond suspendu et y cache le porte-document. Les mains libres, elle s’accroupit sur le siège de porcelaine.</p>
+
+<p>La porte des toilettes grince. L’agente étudie le rythme des pas qui la franchissent. “Trois. Ils sont trois, et le dernier monte la garde devant l’entrée.”
+Les brutes se déplacent en silence. À tour de rôle, ils ouvrent les portes des cabines. L’espionne sort une petite bonbonne de poivre de Cayenne de la poche de son pantalon. Elle se tient prête.</p>
+
+<p>La cabine s’ouvre. La poudre irritante s’envole directement dans les yeux du premier assaillant qui hurle de douleur, recule soudainement et renverse son collègue. La tête de celui-ci percute le bord du comptoir, et le bougre perd connaissance sur le coup.</p>
+
+<p>Le premier virevolte en tout sens en essayant de se nettoyer les yeux. L’agile combattante le projette vers les toilettes. L’homme tombe lourdement et fracasse deux cabines dans sa chute. Enseveli sous les débris, il peste sa douleur.</p>
+
+<p>L’agente engage le combat avec le dernier des gaillards. Elle esquive les gros poings poilus qui sifflent près de ses joues et lui assène des coups de pied secs et précis. Le molosse saisit alors la jambe de sa cible et la fait tomber à plat au sol. Le souffle coupé, l’espionne peine à se relever. Le garde la soulève et la jette contre le large miroir mural qui se brise bruyamment en mille morceaux.</p>
+
+<p>La jeune femme est légèrement coupée aux bras et à une jambe. Elle se cogne contre des robinets qui éclatent, puis retombe mollement sur le ventre du garde évanoui. De l’eau vole partout dans la pièce. Le carrelage devient glissant. Son opposant s’approche.</p>
+
+<p>Debout sur le bide de son ennemi, la fugitive s’empare d’un extincteur au mur et le lance aux pieds du dernier homme en état de nuire. Celui-ci l’évite habilement, mais glisse sur les tuiles trempées et s’écrase par terre, inconscient.</p>
+
+<p>Le quatrième garde, calmement posté à l’extérieur des toilettes, rit en entendant le chaos de l’autre côté de la porte.</p>
+
+<p>“Hahaha! Ils sont en train de lui en sacrer tout une!”</p>
+
+<p>BANG! La porte s’ouvre d’un coup et fait sursauter le garde. L’agente s’éclipse dans le corridor et file vers la sortie en titubant. L’armoire à glace met deux bonnes secondes pour comprendre la situation.</p>
+
+<p>L’homme donne des indications à son microphone en courant. Il se rapproche facilement de sa cible blessée, qui s’apprête à descendre un étroit escalier de secours.</p>
+
+<p>L’espionne sait qu’elle se fera attraper. Elle réfléchit à toute vitesse, et tente une solution ultime. À contrecœur, elle attrape le sac de ses casse-gueule favoris et le perce. Les énormes gommes rebondissent et roulent au sol. Le garde n’a pas le temps de réagir. Ses pieds roulent sur les boules aux cerises. La jeune femme plonge sur le côté et esquive son assaillant qui dégringole les marches de béton et s’écrase un étage plus bas, les deux jambes fracturées.</p>
+
+<p>L’espionne l’enjambe et lui adresse un doigt d’honneur bien senti en sortant. Un agent à bord d'une voiture la prend aussitôt en chasse.</p>
+
+<p>La fugitive se faufile tant bien que mal dans une petite rue déserte. Elle y trouve par chance une moto policière. Le moteur de la voiture sport rugit de plus en plus fort derrière. La jeune femme saisit la moto et crochète habilement son démarreur. Elle file à pleins gaz.</p>
+
+<p>La poursuite est serrée. Les voitures civiles évitent les belligérants in extremis et les passants crient de stupeur. L’agente tente de se rapprocher de son hôtel, où la sécurité renforcée devrait la protéger.</p>
+
+<p>Le poursuivant abdique finalement: la motocycliste s’engage sur un escalier ascendant entre deux immeubles. Aussi habile qu'une cascadeuse, elle contourne quelques touristes, puis aboutit rapidement sur le débarcadère de l’hôtel.</p>
+
+<p><strong>New York - 12 février 2002 - 19h20</strong></p>
+
+<p>L’infiltrée a quitté Salt Lake City sans trop de problèmes, mais elle se sent toujours épiée. Les agents doubles de la fédération cliente la traqueront longtemps, elle le sait.</p>
+
+<p>Son ancienne supérieure l’a clairement avertie : elle fait désormais cavalière seule. Son appartement n’est plus sûr. Elle s’y rend en souhaitant récupérer quelques objets et de l’équipement, mais en tournant le coin de l’intersection, elle constate que  quelque chose cloche sur la rue de son domicile.</p>
+
+<p>Ses ennemis possèdent beaucoup de renseignements sur leur cible qu’elle ne l’aurait cru. Des agents secrets patrouillent sur le trottoir devant l’entrée de l’immeuble. Comment avaient-ils obtenu son adresse? Son ancienne employeuse l’avait-elle trahie?</p>
+
+<p>L’espionne fait volte-face et s’enfuit d’un pas rapide. Tant pis pour ses quelques documents et effets personnels. Elle avait cependant prévu une telle éventualité. Dans son coffre sécurisé d’une luxueuse banque privée new-yorkaise, elle avait dissimulé de faux passeports, des cartes d’identité et tout le nécessaire pour voyager incognito.</p>
+
+<p><strong>Île recluse du Pacifique - 17 février 2002 - 9h12</strong></p>
+
+<p>L’ex-agente 47 se pose sur la terrasse d’un petit café près de la plage. Ses mains meurtries tiennent un journal local.</p>
+
+<p>La publication montre une photo du couple de patineurs canadiens, tout sourire. La jeune femme lit le court article et sourit aussi. Elle ne regrette aucunement sa décision.</p>
+
+<p>L’espionne doit maintenant faire profil bas et mettre sa carrière en pause. Combien de mois, combien d’années, elle l’ignore. Mais cette petite île paradisiaque représente la cachette idéale… pour l’instant.</p>
+
 </div>
 
 {{< /code-html >}}
@@ -258,9 +328,16 @@ lance un regard assassin aux journalistes insistants, puis elle la fracasse au s
 
 {{< code-html >}} 
 <div class="contexte">
-<p></p>
+<p> Ça fait 20 ans que le couple Jamie Salé et David Pelletier se sont fait voler la médaille d’or par un complot exécuté par une juge de la France. Celle-ci aurait été forcée de favoriser le couple russe avec qui les Canadiens étaient en duel au sommet. Quelle histoire!</p>
+
+ <p>Si cet épisode rocambolesque des Olympiques vous intéresse, Radio-Canada a fait un <a href="https://www.youtube.com/watch?v=E9xiKK9RwiI" target="_blank">excellent récapitulatif</a> du scandale.</p>
+
+ <p>L’émission <a href=”https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9yYWRpby1jYW5hZGEvYXVqb3VyZGh1aWxoaXN0b2lyZQ” target=”_blank””>Aujourd’hui l’histoire</a>, s’est aussi penchée sur les tractations derrière le <em>skategate</em>le 29 avril 2020.</p>
+
+ <p>Aviez-vous reconnu la référence? Quel a été votre premier choix de fin à l’histoire? Je suis curieux de savoir votre choix :wink:</p>
+
 <p>Si vous avez apprécié votre lecture et que vous avez envie de partager ce récit, vous me donneriez un super coup de pouce! :hearts:</p>
 
-<p>Toutes les updates de Relectures sont sur <a href=”https://www.facebook.com/relectures.ca”>Facebook</a>, <a href=”https://www.instagram.com/relectures/”>Instagram</a> et <a href=”https://twitter.com/relectures_”>Twitter</a>.</p>
+<p>Toutes les <em>updates</em> de Relectures sont sur <a href=”https://www.facebook.com/relectures.ca”>Facebook</a>, <a href=”https://www.instagram.com/relectures/”>Instagram</a> et <a href=”https://twitter.com/relectures_”>Twitter</a>.</p>
 </div>
 {{< /code-html >}}
