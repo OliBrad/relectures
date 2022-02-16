@@ -163,7 +163,7 @@ Steve est saisi. Il constate faiblement, dans un soupir:
 
 <p>Si vous avez apprécié votre lecture et que vous avez envie de partager ce récit, vous me donneriez un super coup de pouce! :hearts:</p>
 
-<p>Toutes les updates de Relectures sont sur <a href=”https://www.facebook.com/relectures.ca”>Facebook</a>, <a href=”https://www.instagram.com/relectures/”>Instagram</a> et <a href=”https://twitter.com/relectures_”>Twitter</a>.</p>
+<p>Toutes les <em>updates</em> de Relectures sont sur <a href="https://www.facebook.com/relectures.ca" target="_blank">Facebook</a>, <a href="https://www.instagram.com/relectures/" target="_blank">Instagram</a> et <a href="https://twitter.com/relectures_" target="_blank">Twitter</a>.</p>
 
 </div>
 
