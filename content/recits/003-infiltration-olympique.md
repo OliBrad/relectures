@@ -333,9 +333,9 @@ Les brutes se déplacent en silence. À tour de rôle, ils ouvrent les portes de
 
  <p>Si cet épisode rocambolesque des Olympiques vous intéresse, Radio-Canada a fait un <a href="https://www.youtube.com/watch?v=E9xiKK9RwiI" target="_blank">excellent récapitulatif</a> du scandale.</p>
 
- <p>L’émission <a href=”https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9yYWRpby1jYW5hZGEvYXVqb3VyZGh1aWxoaXN0b2lyZQ” target=”_blank””>Aujourd’hui l’histoire</a>, s’est aussi penchée sur les tractations derrière le <em>skategate</em>le 29 avril 2020.</p>
+ <p>L’émission <a href=”https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9yYWRpby1jYW5hZGEvYXVqb3VyZGh1aWxoaXN0b2lyZQ” target=”_blank””>Aujourd’hui l’histoire</a>, s’est aussi penchée sur les tractations derrière le <em>skategate</em> le 29 avril 2020.</p>
 
- <p>Aviez-vous reconnu la référence? Quel a été votre premier choix de fin à l’histoire? Je suis curieux de savoir votre choix :wink:</p>
+ <p><strong>Aviez-vous reconnu la référence? Quel a été votre premier choix de fin à l’histoire?</strong> Je suis curieux de savoir votre choix :wink:</p>
 
 <p>Si vous avez apprécié votre lecture et que vous avez envie de partager ce récit, vous me donneriez un super coup de pouce! :hearts:</p>
 
