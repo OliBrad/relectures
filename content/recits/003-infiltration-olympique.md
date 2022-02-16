@@ -103,7 +103,8 @@ Le moment tant attendu des partisans arrive enfin: les deux derniers duos allaie
 
 L’équipe de la Russie saute sur la glace sous un tonnerre d’applaudissements. La paire avait été irréprochable dans son programme court et avait décroché la première place provisoire. Les Canadiens avaient commis une légère faute technique, mais les talonnaient en deuxième position. 
 
-Tout se jouerait donc dans les prochaines minutes. Tout le monde retenait son souffle. Qu’allait-il se passer? Qui l’emporterait? 
+Tout se jouerait donc dans les prochaines minutes. Qu’allait-il se passer? Qui l’emporterait?
+
 Le couple russe s’élance avec grâce et délicatesse. Leurs mouvements sont précis, justes et exécutés en finesse. L’espionne se laisse transporter par ce qu’elle voit. Le couple maîtrise ses moyens. “Aucunement besoin de truquer les notes, ça ira de soi qu’ils l’emporteront!”, se dit-elle. Au même moment cependant, le danseur russe commet une faute technique sur son double Axell.
 
 “Ooooh!”, lance la foule sur le bout de son siège.
@@ -176,6 +177,8 @@ function myFunction2() {
 
 <button onclick="myFunction2()" onclick="hideoption1()" style="background:var(--secondary); color:var(--theme); padding: 10px; border: 1px solid var(--secondary);">Désobéir</button>
 
++++
+
 <div id="option1">
 <p><strong>Obéir</strong></p>
 
@@ -205,7 +208,7 @@ function myFunction2() {
 
 <p>“Ooohh!”, s’exclament quelques personnes qui reconnaissent l’infiltrée qui attend impatiemment l'ascenseur au bout du hall. “Mais madame, comment avez-vous osé…” </p>
 
-<p>Ding! La porte de l’ascenseur se referme. L’agente souffle en regardant sa montre. 3 minutes. Elle est dorénavant à découvert.</p>
+<p>Ding! La porte de l’ascenseur se referme. L’agente soupire en regardant sa montre. 3 minutes. Elle est dorénavant à découvert.</p>
 
 <p>“Si tu rates ton <em>lift</em>, ton <em>lift</em> ne revient pas”, se répète-t-elle nerveusement.</p>
 
@@ -251,7 +254,7 @@ lance un regard assassin aux journalistes insistants, puis elle la fracasse au s
 <div id="option2">
 <p><strong>Désobéir</strong></p>
 
-<p>Non, cette tricherie n’a aucun sens. Les Canadiens ont été magiques. L’infiltrée retient son souffle et laisse ses doigts relevés au-dessus du clavier un instant.</p>
+<p>Non, cette tricherie n’a aucun sens. Les Canadiens ont été magiques. L’infiltrée laisse ses doigts relevés au-dessus du clavier un instant.</p>
 
 <p>“C’était du grand art. 5.9 et 5.9.”, se souffle-t-elle.</p>
 
