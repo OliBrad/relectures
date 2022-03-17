@@ -108,7 +108,7 @@ Le souverain revient à l’avant-scène.
 
 {{< code-html >}} 
 <div class="contexte">
-<p>Ben oui, <a href="https://fr.wikipedia.org/wiki/Piment_fort_(jeu_t%C3%A9l%C3%A9vis%C3%A9)" target="_blank">Piment fort</a>! 🌶 Le rendez-vous de début de soirée animé par Normand Brathwaite a diverti des centaines de milliers de téléspectateurs chaque semaine.</p>
+<p>Ben oui, <a href="https://fr.wikipedia.org/wiki/Piment_fort_(jeu_t%C3%A9l%C3%A9vis%C3%A9)" target="_blank">Piment fort</a>! 🌶 Le rendez-vous de début de soirée animé par Normand Brathwaite a diverti des centaines de milliers de téléspectateurs chaque semaine pendant plusieurs saisons.</p>
 <p>Si vous avez apprécié votre lecture et que vous avez envie de partager ce récit, vous me donneriez un super coup de pouce! :heart:</p>
 
 <p>Toutes les <em>updates</em> de Relectures sont sur <a href="https://www.facebook.com/relectures.ca" target="_blank">Facebook</a>, <a href="https://www.instagram.com/relectures/" target="_blank">Instagram</a> et <a href="https://twitter.com/relectures_" target="_blank">Twitter</a>.</p>
