@@ -33,68 +33,67 @@ ShowPostNavLinks: true
 
 +++
 
-Jean: Ah! Aline, Pierre, déjà 23h! Voilà que la soirée s’achève et qu’il me faut regagner mes quartiers! Le repas était exquis, il va sans dire. Mes hommages encore une fois!
+**Jean**: Ah! Aline, Pierre, déjà 23h! Voilà que la soirée s’achève et qu’il me faut regagner mes quartiers! Le repas était exquis, il va sans dire. Mes hommages encore une fois!
 
-Aline: Oh, Jean, votre compagnie déforme l’espace-temps à tout coup! Quelle belle soirée!
+**Aline**: Oh, Jean, votre compagnie déforme l’espace-temps à tout coup! Quelle formidable soirée!
 
-Pierre: Hihihi! Tout à fait!
+**Pierre**: Hihihi! Tout à fait!
 
-Jean: Permettez-moi de vous retourner la faveur. Ma dulcinée et moi nous ferions un plaisir de vous accueillir prochainement dans notre modeste demeure pour dîner! 
+**Jean**: Permettez-moi de vous retourner la faveur. Ma dulcinée et moi nous ferions un plaisir de vous accueillir prochainement dans notre modeste demeure pour dîner! 
 
-Pierre: Houhouhou! Avec grand plaisir!
+**Pierre**: Houhouhou! Avec grand plaisir!
 
-Aline: Oh, mais tu es bien aviné, Pierre. Hahaha!
+**Aline**: Oh, mais tu es bien aviné, Pierre. Hahaha!
 
-Jean: Alors, je vous propose une entrée de moules d’une poissonnerie renommée des Îles-de-la-Madeleine, suivies d’un tartare de cerf d'Anticosti chassé par nulle autre que le chirurgien de la dynastie Desmarais (il manie l’arbalète avec autant d’agilité que le bistouri). En dessert, crème brûlée par le chalumeau ayant servi dans la toute première saison de Ricardo.
+**Jean**: Alors, je vous propose une entrée de moules d’une poissonnerie renommée des Îles-de-la-Madeleine, suivies d’un tartare de cerf d'Anticosti chassé par nulle autre que le chirurgien de la dynastie Desmarais (il manie l’arbalète avec autant d’agilité que le bistouri). En dessert, crème brûlée par le chalumeau ayant servi dans la toute première saison de Ricardo.
 
-Pierre: Un repas en toute simplicité comme nous les aimons!
+**Pierre**: Un repas en toute simplicité comme nous les aimons!
 
-Aline : Mes papilles en jubilent déjà!
+**Aline**: Mes papilles en jubilent déjà!
 
-Jean: Fort bien! Nos emplois du temps étant chargés, je vous propose d’ores et déjà le 17 juin prochain. Qu’en dîtes-vous, mes chers amis?
+**Jean**: Fort bien! Nos emplois du temps étant chargés, je vous propose d’ores et déjà le 17 juin prochain. Qu’en dîtes-vous, mes chers amis?
 
-Aline: Mhh, votre proposition est plus qu’alléchante, et il nous tarde de profiter de votre hospitalité.
+**Aline**: Mhh, votre proposition est plus qu’alléchante, et il nous tarde de profiter de votre hospitalité.
 
-Pierre: Je ne saurais mieux dire. Lorsque nous pourrons nous libérer, considérez que nous avons un rendez-vous.
+**Pierre**: Je ne saurais mieux dire. Lorsque nous pourrons nous libérer, considérez que nous avons un rendez-vous.
 
-Jean: Oh, est-ce donc que la date proposée ne vous convient pas? Nous pouvons toujours…
+**Jean**: Oh, est-ce donc que la date proposée ne vous convient pas? Nous pouvons toujours…
 
-Aline: Elle nous convient absolument, au contraire. 
+**Aline**: Elle nous convient absolument, au contraire. 
 
-Jean: Parfait, je veillerai donc à…
+**Jean**: Parfait, je veillerai donc à…
 
-Pierre: Toutefois, certaines circonstances fâcheuses provoquent, à l’occasion, des enchaînements d’événements incontrôlables qui transgressent notre volonté et nos désirs premiers.
+**Pierre**: Toutefois, certaines circonstances fâcheuses provoquent, à l’occasion, des enchaînements d’événements incontrôlables qui transgressent notre volonté et nos désirs premiers.
 
-Jean: Mais donc, le 17 juin n’est peut-être pas…
+**Jean**: Mais donc, le 17 juin n’est peut-être pas…
 
-Aline: Très juste, Pierre, mon chéri. Nous désirons ardemment prendre place à votre tablée le 17 juin prochain.
+**Aline**: Très juste, Pierre, mon chéri. Nous désirons ardemment prendre place à votre tablée le 17 juin prochain.
 
-Pierre: Indéniablement.
+**Pierre**: Indéniablement.
 
-Aline : Assurément.
+**Aline**: Assurément.
 
-Pierre : Sans contredit.
+**Pierre**: Sans contredit.
 
-Jean: Excellent! Je…
+**Jean**: Excellent! Je…
 
-Aline: Mais… En dépit de cette franche envie de vous joindre, il n’en demeure pas moins que le cours des choses bifurque parfois dans une direction inopportune.
+**Aline**: Mais… En dépit de cette franche envie de vous joindre, il n’en demeure pas moins que le cours des choses bifurque parfois dans une direction inopportune.
 
-Jean: …
+**Jean**: …
 
-Pierre: Voilà. Nos cœurs souhaiteraient ardemment déguster ce bon repas que vous nous proposez, seulement…
+**Pierre**: Voilà. Nos cœurs souhaiteraient ardemment déguster ce bon repas que vous nous proposez, seulement…
 
-Aline: Par une malencontreuse superposition d’activité, il s'avère que l'option que vous nous proposez, bien que nous l’eussions favorisée sans la moindre hésitation n'eut été de cette fâcheuse obligation, ne puisse se concrétiser.
+**Aline**: Par une malencontreuse superposition d’activités, il s'avère que l'option que vous nous proposez, bien que nous l’eussions favorisée sans la moindre hésitation n'eut été de cette ennuyeuse obligation, ne puisse se concrétiser.
 
-Jean: Mes chers amis, si…
+**Jean**: Mes chers amis, si…
 
-Pierre: Comme le dit ce fameux proverbe anglo-saxon: rain check, mon brave.
+**Pierre**: Comme le dit ce fameux proverbe anglo-saxon: _rain check_, mon brave.
 
-Jean: Si je vous ai…
+**Jean**: Si je vous ai…
 
-Aline: Loin de nous l'intention de vous contrarier! Nous accepterons illico une éventuelle alternative.
+**Aline**: Loin de nous l'intention de vous contrarier! Nous accepterons _illico_ une éventuelle alternative.
 
-Jean: Si je vous ai bien compris, vous êtes en train de dire à la prochaine fois…
-
+**Jean**: Si je vous ai bien compris, vous êtes en train de dire à la prochaine fois…
 
 +++
 
