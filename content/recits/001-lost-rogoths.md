@@ -1,7 +1,7 @@
 ---
 title: "001 - LOST-ROGOTHS"
 date: 2022-01-09T11:30:00-05:00
-draft: false
+draft: true
 meta: "Un groupe de voyageurs se retrouve échoués sur une mystérieuse île tropicale"
 hidemeta: false
 hidedescription: true
