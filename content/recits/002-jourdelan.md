@@ -33,7 +33,7 @@ ShowPostNavLinks: true
 
 Elle courait à toutes jambes le long de l’étroite allée de briques.
 
-Ses pas rapides étaient étouffés par la neige folle. Quelques lanternes encore en vie vacillaient violemment à son passage dans la nuit sombre. La respiration haletante et paniquée de la jeune femme se mêlait à celle du noroît qui faisait tourbillonner les flocons sur le pavé de la ruelle. 
+La neige folle étouffait ses pas rapides. Quelques lanternes encore en vie vacillaient violemment à son passage dans la nuit sombre. La respiration haletante et paniquée de la jeune femme se mêlait à celle du noroît qui faisait tourbillonner les flocons sur le pavé de la ruelle. 
 
 Les violoneux avaient rangé leurs archets aux crins usés par la veillée endiablée qui s’achevait. Le village s’était endormi dans l’ivresse après les festivités du nouvel an. Même les fêtards les plus endurcis ronflaient à gorge déployée. 
 
@@ -59,7 +59,7 @@ Il n’y avait plus d’issue.
 
 La lune se levait au-dessus des montagnes et remplit la ruelle d’une lueur froide. Se relevant en douleur, la jeune femme aperçu son assaillante pour la première fois et fut prise d’horreur.
 
-À quelques pas, devant elle, se tenait une bottine. 
+Devant elle, se tenait une bottine. 
 
 Une vieille bottine rapiécée dont le cap d’acier troué formait une énorme bouche salivante et répugnante. Son rictus malveillant glaçait le sang. L’haleine du monstre puait tellement des pieds! 
 
@@ -73,8 +73,7 @@ La fugitive déguerpit aussitôt. Elle fuit les lieux en sautant par-dessus la b
 
 Cette nuit-là, au village, les habitants à moitié endormis crurent tous entendre une mystérieuse voix plaignarde turluter toute la nuit:
 
-“AYOYEDIDELAÏE DADELOUILLE AYODON DELIDON AAAAAAAAHHH”
-
+“AYOYEDIDELAÏE DADELOUILLE! AYODON DELIDON!”
 
 +++
 
