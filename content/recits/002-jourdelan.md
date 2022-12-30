@@ -49,7 +49,7 @@ La jeune femme courait sans relâche, mais perdait du terrain. Le souffle puant 
 
 “TIDELADI DALIDELADI DALIDIDAM HUAHUAHAHAAA”
 
-La jeune femme parvint à une intersection de la ruelle. Elle feinta habilement un virage à gauche, mais décampa à droite au dernier moment. Elle entendit le monstre déraper et percuter une amoncellement de bois. 
+La jeune femme parvint à une intersection de la ruelle. Elle feinta habilement un virage à gauche, mais décampa à droite au dernier moment. Elle entendit le monstre déraper et emboutir un amoncellement de bois. 
 
 La fugitive jeta un œil derrière elle, puis percuta de plein fouet la grille d’un portail de fer massif bloquant l’allée. Elle tomba durement au sol, le souffle coupé. Derrière, la bête s’approchait pas à pas. Elle riait toujours, mais de colère. 
 
@@ -65,7 +65,7 @@ Une vieille bottine rapiécée dont le cap d’acier troué formait une énorme 
 
 La bottine fixait sa victime de ses yeux de jute, l’air dément. Elle sautillait en avançant: POC, POC, POC. Elle se lécha les babines de sa semelle dégoulinante et prit un élan, prête à bondir sur sa proie.
 
-La jeune femme, désespérée, plongea la main gauche dans sa poche de manteau. Elle y saisit le seul objet qui s’y trouvait: son petit porte-clés.
+La jeune femme, désespérée, plongea une main dans sa poche de manteau. Elle y saisit le seul objet qui s’y trouvait: son petit porte-clés.
 
 L’épaisse couche de rouille du vieil anneau lui râpa la paume jusqu’au sang. Elle le jeta de toutes ses forces sur la bottine. Les clés oxydées tintèrent dans les airs, puis déchirèrent un œil de la botte qui hurla de douleur et se renversa sur le côté.
 
