@@ -1,7 +1,7 @@
 ---
 title: "001 Invitation à dîner"
 date: 2022-05-20T00:00:00-04:00
-draft: false
+draft: true
 meta: "Une couple de bourgeois et leur ami discutent cordialement. À trop vouloir user de courtoisie et de belles manières, les deux hôtes plongent leur convive dans la confusion la plus totale."
 hidemeta: false
 hidedescription: true
