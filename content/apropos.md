@@ -1,6 +1,6 @@
 ---
 title: "À propos"
-draft: false
+draft: true
 cover:
   image: /olivier4.jpg
   
